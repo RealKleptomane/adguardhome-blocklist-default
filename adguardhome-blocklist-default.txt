@@ -1,1 +1,7 @@
-adguardhome-blocklist-default
+!
+! Title: RealKleptomane Default DNS filter
+! Description: Basic Blocklist
+! Version: 0.0.1
+! Homepage: https://github.com/RealKleptomane/adguardhome-blocklist-default
+!
+||bing.com^
